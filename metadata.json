@@ -1,0 +1,7 @@
+{
+  "name": "AI Incident Reporter",
+  "description": "An application that uses Google Gemini to classify incident reports and Google Maps to find nearby emergency services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
