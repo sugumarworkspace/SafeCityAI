@@ -67,3 +67,9 @@ graph TD
     style G fill:#bbf,stroke:#333,stroke-width:2px;
     style H fill:#9f9,stroke:#333,stroke-width:2px;
 ```
+## We’re planning to:
+* Maintain and log incidents in Firebase for persistence and analytics.
+* Build dashboards for past incident analysis, trends, and city-level heatmaps.
+* Use historical data to forecast high-risk zones or times using AI-based prediction.
+* Add multilingual and voice reporting support for inclusive public use.
+* Integrate directly with municipal safety systems or community alert networks.
