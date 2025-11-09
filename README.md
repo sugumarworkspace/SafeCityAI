@@ -6,7 +6,14 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1GvV0sChYtGezXyF8sUyloIFJA07yKCqC
+**Home page**  
+![gallery](https://github.com/user-attachments/assets/fff698ba-7280-4df1-b3d2-c381db876802)  
+**Report car accident**  
+<img width="373" height="672" alt="Incident_Car_Accident" src="https://github.com/user-attachments/assets/5f97ff1c-5f01-4281-8bf1-2eaf476f5c8e" />  
+**Report fire accident**  
+<img width="376" height="675" alt="Incident-Fire_Accident" src="https://github.com/user-attachments/assets/17f844da-9ab8-4bd8-bc4c-464cd2ffa305" />  
+**Report crowd fighting**  
+<img width="376" height="674" alt="Incident_Crowd_Fight" src="https://github.com/user-attachments/assets/73624c75-3527-427f-9554-d26a1326029a" />  
 
 ## Run Locally
 
