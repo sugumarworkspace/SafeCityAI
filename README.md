@@ -7,7 +7,7 @@
 This contains everything you need to run your app locally.
 
 **Home page**  
-![gallery](https://github.com/user-attachments/assets/fff698ba-7280-4df1-b3d2-c381db876802)  
+<img width="378" height="671" alt="Home_Page" src="https://github.com/user-attachments/assets/366c2ef3-ddac-4988-b127-d91e5c75928f" />
 **Report car accident**  
 <img width="373" height="672" alt="Incident_Car_Accident" src="https://github.com/user-attachments/assets/5f97ff1c-5f01-4281-8bf1-2eaf476f5c8e" />  
 **Report fire accident**  
